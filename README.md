@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://media1.giphy.com/media/e6TR9n00dL3JS/giphy.gif)
 <!--
 **jaedsadadotme/jaedsadadotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
